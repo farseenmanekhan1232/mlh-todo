@@ -56,9 +56,7 @@ body{
 
 
 .delete{
-  display: flex;
-  justify-content: center;
-  background: red;
+background: red;
 }
 
 .delete{
