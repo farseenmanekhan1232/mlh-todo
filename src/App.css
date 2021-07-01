@@ -6,8 +6,6 @@ form {
 
 
 
-
-
 body{
   background: url("desktop.png") no-repeat center center fixed; 
   -webkit-background-size: cover;
@@ -53,7 +51,7 @@ body{
   background: red;
 }
 
-button{
+.is-pulled-right{
   border: 0px solid black;
   width: 40px;
   padding: 5px;
@@ -61,7 +59,7 @@ button{
   opacity: 70%;
 }
 
-button:hover{
+.is-pulled-right:hover{
   opacity: 100%;
 }
 
