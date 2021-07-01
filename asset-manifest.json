@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/mlh-todo/static/css/main.e29251b8.chunk.css",
-    "main.js": "/mlh-todo/static/js/main.80aa70cb.chunk.js",
-    "main.js.map": "/mlh-todo/static/js/main.80aa70cb.chunk.js.map",
+    "main.css": "/mlh-todo/static/css/main.f6f3c2ea.chunk.css",
+    "main.js": "/mlh-todo/static/js/main.0c02924a.chunk.js",
+    "main.js.map": "/mlh-todo/static/js/main.0c02924a.chunk.js.map",
     "runtime-main.js": "/mlh-todo/static/js/runtime-main.10e1d5bd.js",
     "runtime-main.js.map": "/mlh-todo/static/js/runtime-main.10e1d5bd.js.map",
     "static/js/2.cf2e2122.chunk.js": "/mlh-todo/static/js/2.cf2e2122.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.2d10b565.chunk.js": "/mlh-todo/static/js/3.2d10b565.chunk.js",
     "static/js/3.2d10b565.chunk.js.map": "/mlh-todo/static/js/3.2d10b565.chunk.js.map",
     "index.html": "/mlh-todo/index.html",
-    "static/css/main.e29251b8.chunk.css.map": "/mlh-todo/static/css/main.e29251b8.chunk.css.map",
+    "static/css/main.f6f3c2ea.chunk.css.map": "/mlh-todo/static/css/main.f6f3c2ea.chunk.css.map",
     "static/js/2.cf2e2122.chunk.js.LICENSE.txt": "/mlh-todo/static/js/2.cf2e2122.chunk.js.LICENSE.txt",
     "static/media/App.css": "/mlh-todo/static/media/mobile.dca43487.png"
   },
   "entrypoints": [
     "static/js/runtime-main.10e1d5bd.js",
     "static/js/2.cf2e2122.chunk.js",
-    "static/css/main.e29251b8.chunk.css",
-    "static/js/main.80aa70cb.chunk.js"
+    "static/css/main.f6f3c2ea.chunk.css",
+    "static/js/main.0c02924a.chunk.js"
   ]
 }
