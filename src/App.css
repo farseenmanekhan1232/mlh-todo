@@ -64,13 +64,8 @@ body{
 .delete{
   padding: 5px;
   border-radius: 10px;
-  opacity: 70%;
 }
 
-.delete:hover{
-  curson: pointer;
-  opacity: 100%;
-}
 .input{
   border: 0px;
   border-radius: 20px;
