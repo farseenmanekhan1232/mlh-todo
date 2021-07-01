@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mlh-todo/static/css/main.f6f3c2ea.chunk.css",
-    "main.js": "/mlh-todo/static/js/main.0c02924a.chunk.js",
-    "main.js.map": "/mlh-todo/static/js/main.0c02924a.chunk.js.map",
+    "main.js": "/mlh-todo/static/js/main.9c5a8fd5.chunk.js",
+    "main.js.map": "/mlh-todo/static/js/main.9c5a8fd5.chunk.js.map",
     "runtime-main.js": "/mlh-todo/static/js/runtime-main.10e1d5bd.js",
     "runtime-main.js.map": "/mlh-todo/static/js/runtime-main.10e1d5bd.js.map",
     "static/js/2.cf2e2122.chunk.js": "/mlh-todo/static/js/2.cf2e2122.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.10e1d5bd.js",
     "static/js/2.cf2e2122.chunk.js",
     "static/css/main.f6f3c2ea.chunk.css",
-    "static/js/main.0c02924a.chunk.js"
+    "static/js/main.9c5a8fd5.chunk.js"
   ]
 }
