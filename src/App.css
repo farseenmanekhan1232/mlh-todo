@@ -47,11 +47,11 @@ body{
   justify-content: space-between;
 }
 
-.delete , .is-pulled-right{
+.delete{
   background: red;
 }
 
-.is-pulled-right{
+.delete{
   border: 0px solid black;
   width: 40px;
   padding: 5px;
@@ -59,7 +59,7 @@ body{
   opacity: 70%;
 }
 
-.is-pulled-right:hover{
+.delete:hover{
   opacity: 100%;
 }
 
