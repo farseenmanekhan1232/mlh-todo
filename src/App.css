@@ -34,7 +34,7 @@ body{
 }
 .list-wrapper {
   font-family: segoe ui;
-  max-height: 200px;
+  max-height: 500px;
   overflow-y: auto;
 }
 
@@ -45,9 +45,16 @@ body{
   margin: 10px;
   background: rgba(250, 250,250, .5) ;
   justify-content: space-between;
+  flex-wrap: wrap;
+    text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
+
 .delete{
+  display: flex;
+  justify-content: center;
   background: red;
 }
 
@@ -60,9 +67,9 @@ body{
 }
 
 .delete:hover{
+  curson: pointer;
   opacity: 100%;
 }
-
 .input{
   border: 0px;
   border-radius: 20px;

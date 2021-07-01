@@ -82,9 +82,8 @@ const TodoList = (props) => {
 
 const Todo = (props) => {
   return(
-    <div className='list-item'>
-      {props.content}
-      <button class="delete is-pulled-right" onClick={() => {props.onDelete(props.id)}}>del</button>
+    <div className='list-item'>{props.content}
+      <div class="delete is-pulled-right" onClick={() => {props.onDelete(props.id)}}>del</div>
     </div>
   );
 }
