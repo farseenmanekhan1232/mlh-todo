@@ -59,7 +59,7 @@ body{
 }
 
 .delete{
-  border: 0px solid black;
+  border: 1px solid white;
   width: 40px;
   padding: 5px;
   border-radius: 10px;
