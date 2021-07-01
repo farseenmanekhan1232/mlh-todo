@@ -62,8 +62,6 @@ body{
 }
 
 .delete{
-  border: 1px solid white;
-  width: 40px;
   padding: 5px;
   border-radius: 10px;
   opacity: 70%;
